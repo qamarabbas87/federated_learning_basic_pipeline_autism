@@ -21,7 +21,7 @@ This is a beginner guide to flower a federated learning framework and machine le
 
 - **Run 3 Clients on seperate terminal using below commands**
 - python flwr_client.py -- client 0
-- python flwr_client.py -- client 2
+- python flwr_client.py -- client 1
 - python flwr_client.py -- client 2
 
 - If you like and learn federated learning concepts from this with practical exposure, Thanks me Later !
